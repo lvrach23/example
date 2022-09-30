@@ -1,0 +1,15 @@
+C:\Учеба\Example\Example _002_\bin\Debug\net6.0\Example _002_.exe
+C:\Учеба\Example\Example _002_\bin\Debug\net6.0\Example _002_.deps.json
+C:\Учеба\Example\Example _002_\bin\Debug\net6.0\Example _002_.runtimeconfig.json
+C:\Учеба\Example\Example _002_\bin\Debug\net6.0\Example _002_.dll
+C:\Учеба\Example\Example _002_\bin\Debug\net6.0\Example _002_.pdb
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.csproj.AssemblyReference.cache
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.AssemblyInfoInputs.cache
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.AssemblyInfo.cs
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.csproj.CoreCompileInputs.cache
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.dll
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\refint\Example _002_.dll
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.pdb
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\Example _002_.genruntimeconfig.cache
+C:\Учеба\Example\Example _002_\obj\Debug\net6.0\ref\Example _002_.dll
